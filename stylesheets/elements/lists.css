@@ -1,0 +1,45 @@
+/* Examples
+
+ul.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; }
+  ul.navbar li {
+    font-family: AvenirNext-Regular;
+    font-size: 14px;
+    line-height: 20px;
+    display: inline;
+    margin: 0 20px 0 20px; }
+    ul.navbar li a {
+      text-decoration: none; }
+    ul.navbar li a:hover {
+      text-decoration: none; }
+    ul.navbar li a:visited {
+      text-decoration: none; }
+
+ul.filters {
+  list-style-type: none;
+  margin: 0;
+  padding-top: 17px; }
+  ul.filters li {
+    display: inline;
+    margin: 0 10px 0 10px; }
+    ul.filters li a {
+      text-decoration: none;
+      font-family: AvenirNext-Medium;
+      font-size: 17px;
+      color: #BBBBBB;
+      line-height: 23px; }
+    ul.filters li a:active {
+      text-decoration: none;
+      font-family: AvenirNext-Medium;
+      font-size: 17px;
+      color: #4A90E2;
+      line-height: 23px; }
+    ul.filters li a.selected-filter {
+      text-decoration: none;
+      font-family: AvenirNext-Medium;
+      font-size: 17px;
+      color: #4A90E2;
+      line-height: 23px; }
+*/

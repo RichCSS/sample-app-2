@@ -1,0 +1,71 @@
+/* Examples
+
+#search-feature{
+    #event-input{
+        font-family: AvenirNext-Medium;
+        font-size: 16px;
+        line-height: 25px;
+        background-color: white;
+        color: #F6A43F;
+        
+        border-top-left-radius: 3px;
+        border-bottom-left-radius: 3px;
+        padding: 7px 10px;
+        width: 219px;
+        height: 25px;
+        border: 0;
+        border-right: 1px solid #9F9F9F;
+        margin: 0px !important;
+        
+        display: inline;
+    }
+    #city-input{
+        background-color: white;
+        font-family: AvenirNext-Medium;
+        font-size: 16px;
+        color: #F6A43F;
+        line-height: 25px;
+        
+        padding: 7px 10px;
+        width: 230px;
+        height: 25px;
+        border: 0;
+        border-right: 1px solid #9F9F9F;
+        margin-left: -4px !important;
+        
+        display: inline;
+    }
+    #date-input{
+        /* All Dates: 
+        font-family: AvenirNext-Medium;
+        font-size: 16px;
+        color: #F6A43F;
+        line-height: 25px;
+        background-color: white;
+
+        padding: 7px 10px;
+        width: 200px;
+        height: 25px;
+        border: 0;
+        margin-left: -4px !important;
+        margin-right: -4px !important;
+        
+        display: inline;
+    }
+    #search-btn{
+        font-family: AvenirNext-Medium;
+        font-size: 16px;
+        line-height: 25px;
+        text-decoration: none;   
+        background-color: #F6A43F;
+        color: white;
+        
+        border-top-right-radius: 3px;
+        border-bottom-right-radius: 3px;
+        width: 107px;
+        
+        
+        padding: 8px 30px 9px 30px;
+        display: inline;
+    }
+}*/*/

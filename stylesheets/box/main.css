@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+
+.header{}
+
+.row{
+    display: block;
+    width: 100%;
+}
+.footer{
+    background-color: #2A2C2D;
+    padding-bottom: 50px;
+    position: relative;
+    bottom: -8px;
+}

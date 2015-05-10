@@ -1,0 +1,30 @@
+/* Examples
+
+input[type="text"]{
+    background: #FFFFFF;
+    font-family: AvenirNext-Regular;
+    font-size: 16px;
+    color: #F5A623;
+    line-height: 27px;
+    
+    width: 272px;
+    height: 50px;
+    padding-left: 12px;
+    padding-right: 44px;
+    margin: 5px 0 5px 5px;
+}
+
+input[type="password"]{
+    font-family: AvenirNext-Regular;
+    font-size: 16px;
+    color: #F5A623;
+    line-height: 27px;
+
+
+    width: 272px;
+    height: 50px;
+    padding-left: 12px;
+    padding-right: 44px;
+    margin: 5px 0 5px 5px;
+    background: #FFFFFF;
+}*/
